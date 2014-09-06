@@ -6,4 +6,4 @@ A simple latest rails build puppet module
 * ubuntu upstart (only) currently
 ```shell
 start rails
-```shell
+```
